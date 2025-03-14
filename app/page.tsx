@@ -9,7 +9,7 @@ export default function Home() {
     <main className="min-h-screen bg-gradient-to-b from-gray-900 to-gray-800 text-white">
       <div className="container mx-auto px-4 py-16">
         <div className="text-center mb-16">
-          <h1 className="text-5xl font-bold mb-4">Web3 Starter()</h1>
+          <h1 className="text-5xl font-bold mb-4">Web3 Starter</h1>
           <p className="text-xl text-gray-300">Next.js + ContextApi + ETH Contract + Node Js + MongoDB + Ethers.js</p>
         </div>
 
